@@ -46,15 +46,20 @@
   margin-top: 5%;
   font-size: 40px;
 }
-
 .footer {
   display: flex;
-  padding: 20px;
-  background-color: rgb(193, 184, 184);
+  margin: 20%;
+  padding: 30px;
+  background-color: rgb(176, 196, 228);
+  justify-content: space-between;
 }
-.hr {
-
+.footer2 {
+  width: 60%;
 }
 .icon {
   font-size: 40px;
+  margin: 5px;
+}
+.icon:hover {
+  color: cadetblue;
 }
