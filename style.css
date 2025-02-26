@@ -1,0 +1,60 @@
+.content {
+  margin-top: 100px;
+}
+.nav {
+  background-color: rgb(101, 142, 203);
+}
+.intro {
+  margin: 0 auto;
+  text-align: center;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/040/890/255/non_2x/ai-generated-empty-wooden-table-on-the-natural-background-for-product-display-free-photo.jpg");
+  height: 100%;
+  width: 100%;
+}
+.intro_cap {
+  padding: 20%;
+  font-family: cursive;
+  color: white;
+}
+.introduction {
+  margin: 10%;
+  display: flex;
+}
+.info {
+  width: 60%;
+}
+.blockquote1 {
+  font-size: 15px;
+}
+.hobbies {
+  margin: 10%;
+}
+.list-group-item {
+  padding-left: 0;
+  margin-right: 5%;
+}
+.achievements {
+  padding: 10% 1%;
+  background-color: rgb(101, 142, 203);
+}
+.card-text {
+  text-align: center;
+  font-size: 20px;
+}
+.card-logo-top {
+  text-align: center;
+  margin-top: 5%;
+  font-size: 40px;
+}
+
+.footer {
+  display: flex;
+  padding: 20px;
+  background-color: rgb(193, 184, 184);
+}
+.hr {
+
+}
+.icon {
+  font-size: 40px;
+}
